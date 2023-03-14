@@ -15,11 +15,11 @@ function solution(str){
     }).map(el => {
         return el.length < 2 ? `${el}_` : el
     })
-    console.log(under)
+    return under
   }
   
   
-  solution("abcdef")//, ["ab", "cd", "ef"]);
-  solution("abcdefg")//, ["ab", "cd", "ef", "g_"]);
-  solution("")//, []);
+  console.log(solution("abcdef"))//, ["ab", "cd", "ef"]);
+  console.log(solution("abcdefg"))//, ["ab", "cd", "ef", "g_"]);
+  console.log(solution(""))//, []);
   
