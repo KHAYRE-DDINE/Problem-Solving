@@ -11,17 +11,16 @@ function fish(odd) {
     let other = []
 
     odd.map((e) => {
-      typeof e === typeof "" ? str.push(e) : other.push(e)
+      typeof e === typeof "" ? str.push(e) : console.log("no catch");
     })
-
-    odd.reduce((a, c) => {
-      typeof a === typeof c ? console.log(a) : ""
-    })
+    // odd.reduce((a, c) => {
+    //   typeof a === typeof c ? console.log(a) : ""
+    // })
 
     // str.length == 1 ? console.log(str[0]) : "";
     // other.length == 1 ? console.log(other[0]) : "";
 
-    // console.log(str);
+    console.log(str);
     // console.log(other);
 
   } else {
