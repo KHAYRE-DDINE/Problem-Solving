@@ -1,3 +1,5 @@
+/*******************DESCRIPTION****************************/
+
 function grow(x){
 	let result = x.reduce((a,c) => {
 		return  a * c

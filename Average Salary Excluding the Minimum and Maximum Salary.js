@@ -1,3 +1,5 @@
+/*******************DESCRIPTION****************************/
+
 var average = function (salary) {
     let min = salary.reduce((a, c) => {
       return a < c;

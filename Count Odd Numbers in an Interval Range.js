@@ -1,3 +1,5 @@
+/*******************DESCRIPTION****************************/
+
 let countOdds = function(low, high) {
 
     let odd = [];

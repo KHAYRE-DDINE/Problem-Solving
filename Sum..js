@@ -1,5 +1,5 @@
 
-/*******DESCRIPTION********/
+/*******************DESCRIPTION****************************/
 
 function Add(...val){
 	let sum = val.reduce((a,c) => {

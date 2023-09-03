@@ -1,4 +1,4 @@
-/*******DESCRIPTION********/
+/*******************DESCRIPTION****************************/
 
 
 function dropCap(n) {

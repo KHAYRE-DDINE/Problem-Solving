@@ -1,4 +1,4 @@
-/*******DESCRIPTION********/
+/*******************DESCRIPTION****************************/
 
 // Positive integers that are divisible exactly by the sum of their digits are called Harshad numbers.
 // The first few Harshad numbers are: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 18, ...

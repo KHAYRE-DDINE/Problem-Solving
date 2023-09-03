@@ -1,3 +1,5 @@
+/*******************DESCRIPTION****************************/
+
 function squareSum(...numbers){
    
     let sumSqu = 0;
